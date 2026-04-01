@@ -1,24 +1,44 @@
-# Introduction
-This repository contains resources for programming logic in various languages. The goal is to provide a robust foundation for understanding programming concepts and applying them effectively.
+#  Lógica de Programação
 
-# Obsidian Setup
-To set up Obsidian for this vault, follow these steps:
-1. Download and install Obsidian from [obsidian.md](https://obsidian.md).
-2. Open Obsidian and create a new vault.
-3. Select the folder where this repository is cloned.
-4. Install any plugins you may find useful for enhanced functionality.
+Um vault **Obsidian** dedicado a estudos de lógica de programação e algoritmos para iniciantes.
 
-# Topics Covered
-- Basic programming concepts
-- Structure and organization of code
-- Control flow (if statements, loops)
-- Functions and modular programming
-- Object-oriented programming
-- Data structures and algorithms
+> Este repositório contém anotações estruturadas usando Obsidian, com referências cruzadas e visualizações de conhecimento interconectadas.
 
-# How to Use the Vault
-1. Browse the topics in the vault to enhance your programming knowledge.
-2. Use the provided links to dive deeper into each subject.
-3. Follow the step-by-step examples to practice coding techniques.
+---
 
-Feel free to clone the repository and modify or contribute additional content!
+##  Objetivo
+
+Fornecer uma base sólida em conceitos fundamentais de lógica de programação através de anotações bem organizadas e interligadas, facilitando o aprendizado progressivo e a revisão de conceitos.
+
+---
+
+## Estrutura do Vault
+1. Introdução a Lógica
+2. Algoritmos
+3. Fluxograma
+4. Psudocódigo
+5. Variáveis
+---
+
+## Tópicos Cobertos
+
+- **[[Variáveis]]** - Conceitos fundamentais de variáveis e atribuição
+- Estruturas de controle (em desenvolvimento)
+- Funções e procedimentos (em desenvolvimento)
+- Algoritmos básicos (em desenvolvimento)
+- Estruturas de dados (em desenvolvimento)
+
+---
+
+## 🚀 Como Usar Este Vault
+
+### Instalação
+
+1. Clone ou faça download deste repositório:
+   ```bash
+   git clone https://github.com/yurikomuta/logica-de-programacao.git
+2. Abra a pasta logica_de_programacao como um vault no Obsidian:
+  Abra Obsidian
+  Clique em "Open folder as vault"
+  Selecione a pasta logica_de_programacao
+---
