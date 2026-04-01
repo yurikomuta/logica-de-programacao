@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "2d4658aee8904589",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d66a14fb7ae76c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a08f8ef86727e149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logica_de_programacao/Pseudocódigo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pseudocódigo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2273cdbb2364dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c4026bcb3ce252c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b3ab6a7683b6106",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "dd72ebc4c151e48c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ec1bc032282a0126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e776b8d20d5d535",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe3a3c6656e80d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08ce728ca60bcca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logica_de_programacao/Pseudocódigo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Pseudocódigo"
+            }
+          },
+          {
+            "id": "e2c4483d1dbc6a5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logica_de_programacao/Pseudocódigo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Pseudocódigo"
+            }
+          },
+          {
+            "id": "e3aaf001d062e6c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ff1fd90f45c34e46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6790b12e2e5c6458",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logica_de_programacao/Pseudocódigo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Pseudocódigo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "a08f8ef86727e149",
+  "lastOpenFiles": [
+    "().md",
+    "Logica_de_programacao/Pseudocódigo.md",
+    "Logica_de_programacao/Fluxograma.md",
+    "Variáveis.md",
+    "Pasted image 20260401143004.png",
+    "Logica_de_programacao/Introdução à Lógica de Programação/Algoritmos.md",
+    "Pasted image 20260401142022.png",
+    "Logica_de_programacao/Introdução à Lógica de Programação/Introdução à Lógica de Programação.md",
+    "Logica_de_programacao/Introdução à Lógica de Programação/Pasted image 20260325132400.png"
+  ]
+}
